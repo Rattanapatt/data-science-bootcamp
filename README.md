@@ -13,3 +13,5 @@ My data project for data science
 - Python Programming
 - Essential Python for Data Analyst
 - Dashboard
+
+You can find me on https://www.linkedin.com/in/patt-rattanawiboon/
